@@ -251,6 +251,7 @@
 					"$(SRCROOT)/../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"$(inherited)",
@@ -273,6 +274,7 @@
 					"$(SRCROOT)/../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"$(inherited)",
